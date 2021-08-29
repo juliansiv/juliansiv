@@ -2,4 +2,4 @@
 
 My name is Julians Iturra.
 
-I'm back-end developer in the best team of Beetrack, PlannerPro obviously 😄
+I'm back-end developer in PlannerPro, the best Beetrack team 😄
